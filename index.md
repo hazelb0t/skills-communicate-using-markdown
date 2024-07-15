@@ -9,3 +9,7 @@
 ``` sql
 SELECT * FROM PatronRegistration
 ```
+
+- [ ] first task
+- [ ] second task
+- [ ] third task
